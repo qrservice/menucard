@@ -8,7 +8,7 @@ const MENU_DATA = {
     {
       subcategory: "Continental",
       items: [
-        { id:"b1", name:"Classic Continental Basket", type:"nonveg", price:650,
+        { id:"b1", name:"Classic Continental Basket", type:"veg", price:650,
           desc:"Freshly baked croissants, sourdough toast, Danish pastry, fruit preserves, Normandy butter & orange marmalade.",
           tags:["Vegetarian","Nut-free"], badges:[], rating:4.8 },
         { id:"b2", name:"French Toast Royale", type:"veg", price:480,
